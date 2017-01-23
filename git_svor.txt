@@ -1,1 +1,8 @@
 #Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd   - change directory , breytir um möppu
+	cd ~ - fer í rótina 
+	ls    - sýnir allar möppur/directory eða skrár í möppuni sem maður er
+	pwd   - sýnir á hvaða rót/drif maður er
+	mkdir - make directory / býr til möppu
