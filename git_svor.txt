@@ -38,3 +38,6 @@ Maður ætti ekki að nota það eitthvað svakalega oft nema þú gerir mikið 
 9.	Hver fann upp GIT?
 Linus Torvalds
 ------------------------------------------------------------------
+10.	Hvar er GIT helst notað?
+Git er notað í fyrirtækjum sem vinna mikið við forritun.
+------------------------------------------------------------------
