@@ -1,4 +1,4 @@
-#Git spurningar og svör
+﻿#Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd   - change directory , breytir um möppu
@@ -10,8 +10,15 @@
 	-----------------------------------------------
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone - 
+	git clone - þá býrðu til working copy af local depository
 	git log - sýnir allar breytingar gerðar 
 	git status - sýnir status á gittinu / sýnir núverandi upplýsingar um eh skrá eða verkefni
-	git diff -
-	git checkout -
+	git diff - skoðar skrá eða hvað er búið að gera
+	git checkout - skoðar öll verkefni/git
+--------------------------------------------------------
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff - show changes between commits
+	b) git diff --staged -view the conflicts against the base file
+	c) git diff commit1 commit2 - preview changes before merging
+--------------------------------------------------------------------
+4. 	Hvað er útgáfustýring (e.version control)? 
