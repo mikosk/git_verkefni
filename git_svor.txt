@@ -6,3 +6,12 @@
 	ls    - sýnir allar möppur/directory eða skrár í möppuni sem maður er
 	pwd   - sýnir á hvaða rót/drif maður er
 	mkdir - make directory / býr til möppu
+
+	-----------------------------------------------
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - 
+	git log - sýnir allar breytingar gerðar 
+	git status - sýnir status á gittinu / sýnir núverandi upplýsingar um eh skrá eða verkefni
+	git diff -
+	git checkout -
