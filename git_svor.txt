@@ -27,3 +27,6 @@
 5.	Hverjir eru helstu kostir við að nota GIT?
 branching og merging er mjög auðvelt. og aðrir geta séð hvað þú hefur gert.
 ------------------------------------------------------------------
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+Maður ætti ekki að nota það eitthvað svakalega oft nema þú gerir mikið af villum annart er þetta bara gott til þess að skoða hvað maður hefur gert.
+-------------------------------------------------------------------
