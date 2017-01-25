@@ -22,3 +22,4 @@
 	c) git diff commit1 commit2 - preview changes before merging
 --------------------------------------------------------------------
 4. 	Hvað er útgáfustýring (e.version control)? 
+    Version control systems are a category of software tools that help software team manage changes to source code over time.
