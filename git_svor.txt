@@ -32,3 +32,6 @@ Maður ætti ekki að nota það eitthvað svakalega oft nema þú gerir mikið 
 -------------------------------------------------------------------
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? Repository geymir meðal annars comit objects og sett af tilvísunum, Staging area is basicly loading dock where you get to determine what changes get shipped away , Working directory heldur bara utan um actual file.
 ------------------------------------------------------------------
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+þegar þú þarft að laga eitthvað inni þeirri greina .
+------------------------------------------------------------------
