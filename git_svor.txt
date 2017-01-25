@@ -30,3 +30,5 @@ branching og merging er mjög auðvelt. og aðrir geta séð hvað þú hefur ge
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 Maður ætti ekki að nota það eitthvað svakalega oft nema þú gerir mikið af villum annart er þetta bara gott til þess að skoða hvað maður hefur gert.
 -------------------------------------------------------------------
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? Repository geymir meðal annars comit objects og sett af tilvísunum, Staging area is basicly loading dock where you get to determine what changes get shipped away , Working directory heldur bara utan um actual file.
+------------------------------------------------------------------
