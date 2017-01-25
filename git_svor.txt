@@ -35,3 +35,6 @@ Maður ætti ekki að nota það eitthvað svakalega oft nema þú gerir mikið 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 þegar þú þarft að laga eitthvað inni þeirri greina .
 ------------------------------------------------------------------
+9.	Hver fann upp GIT?
+Linus Torvalds
+------------------------------------------------------------------
